@@ -7,9 +7,9 @@ setup(
     install_requires=[
         'Flask',
         'requests',
-        'beautifulsoup4',
         'chardet',
-        'lxml'
+        'lxml',
+        'playwright'
     ],
     entry_points={
         'console_scripts': [
