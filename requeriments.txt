@@ -1,1 +1,1 @@
-pip install Flask requests beautifulsoup4 chardet lxml
+pip install Flask requests chardet lxml playwright
