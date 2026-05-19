@@ -32,7 +32,7 @@ python -m pip install --upgrade pip
 
 REM Instala as dependências
 echo Instalando dependências...
-pip install Flask requests beautifulsoup4 chardet
+pip install Flask requests beautifulsoup4 chardet lxml playwright
 
 REM Inicia o app
 echo.
