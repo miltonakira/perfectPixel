@@ -49,7 +49,7 @@ pip install -r requirements.txt
 
 > If you don’t have `requirements.txt`, install manually:
 ```bash
-pip install flask requests beautifulsoup4 chardet lxml
+pip install flask requests beautifulsoup4 chardet lxml playwright
 ```
 
 ---
@@ -59,7 +59,7 @@ pip install flask requests beautifulsoup4 chardet lxml
 Run the application with:
 
 ```bash
-python app.py
+python perfectpixel/app.py
 ```
 
 Or, on Windows, simply double-click the `start.bat` file if available.
